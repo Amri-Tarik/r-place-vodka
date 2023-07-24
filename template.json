@@ -26,14 +26,6 @@
 "y": 1587
 },
 {
-"name":"M6",
-"sources": [
-"https://cdn.discordapp.com/attachments/1132826040482406400/1133128103376470126/safi.png"
-],
-"x": 2900,
-"y": 1826
-},
-{
 "name":"Coat of arms",
 "sources": [
 "https://cdn.discordapp.com/attachments/1132826040482406400/1133124035677532241/coat_of_arms_v3.png"
@@ -53,3 +45,4 @@
 "whitelist": [],
 "blacklist": []
 }
+
