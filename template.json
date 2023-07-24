@@ -26,23 +26,22 @@
 "y": 1587
 },
 {
-"name":"Coat of arms",
-"sources": [
-"https://cdn.discordapp.com/attachments/1132826040482406400/1133124035677532241/coat_of_arms_v3.png"
-],
-"x": 2913,
-"y": 1826
-},
-{
 "name":"Nouri Shirt",
 "sources": [
 "https://cdn.discordapp.com/attachments/1131633763038793851/1133123126557945866/nouri_shirt_v3.png"
 ],
 "x": 2846,
 "y": 1826
+},
+{
+"name":"Coat of arms",
+"sources": [
+"https://cdn.discordapp.com/attachments/1132826040482406400/1133124035677532241/coat_of_arms_v3.png"
+],
+"x": 2913,
+"y": 1826
 }
 ],
 "whitelist": [],
 "blacklist": []
 }
-
