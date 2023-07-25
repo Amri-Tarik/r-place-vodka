@@ -2,6 +2,14 @@
 "contact": "",
 "templates": [
 {
+"name":"mghrb-union",
+"sources": [
+"https://cdn.discordapp.com/attachments/759613026625257507/1133473227453239326/maghreb_union.png"
+],
+"x": 1102,
+"y": 1823
+},
+{
 "name":"Shirt",
 "sources": [
 "https://cdn.discordapp.com/attachments/1131633763038793851/1132837387593072660/shirt_v3.png"
